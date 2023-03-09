@@ -13,7 +13,7 @@ Try It on your own to view the calculator
 
 
 
-Install
+Install the calculator to your desktop
 ---
 
 `npm install`
