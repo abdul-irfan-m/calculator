@@ -1,4 +1,4 @@
-Calculator
+Calculator new calculator has been added.
 ---
 <img src="Logotype primary.png" width="60%" height="60%" />
 
