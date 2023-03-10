@@ -6,7 +6,7 @@ Created with *create-react-app*. See the [full create-react-app guide](https://g
 
 
 
-Try It on your own to view the calculator
+Try It on your own to view the calculator with the github codespace
 ---
 
 [ahfarmer.github.io/calculator](https://ahfarmer.github.io/calculator/)
