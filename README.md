@@ -1,6 +1,4 @@
-Welcome! A new line has been added.congrats.
-
-Calculator new calculator has been added.
+A new pull request has been created and please close this request.
 ---
 <img src="Logotype primary.png" width="60%" height="60%" />
 
