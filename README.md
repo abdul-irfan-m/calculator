@@ -1,6 +1,5 @@
-Welcome! A new line has been added.congrats.
+a new line has been added to line 1
 
-Calculator new calculator has been added.
 ---
 <img src="Logotype primary.png" width="60%" height="60%" />
 
